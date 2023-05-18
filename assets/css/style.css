@@ -74,7 +74,7 @@ a{
     text-transform: none;
     border-radius: 3rem;
 }
-/* Hedare Start */
+/* Header Start */
 .header .search-form{
     position: absolute;
     top: 115%;
@@ -191,7 +191,7 @@ a{
 /* Home Start */
 .home{
     min-height: 100vh;
-    background: url(home.jpg) no-repeat;
+    background: url(../images/home.jpg) no-repeat;
     background-size: cover;
     background-position: center;
     margin-top: -14.5rem;
